@@ -1,1 +1,1 @@
-This is a game that was made in honor of a reddit story game made by user u/Zeebbbrrrraaaaa1 This game is made in python using turtle graphics and pygame 
+This is a game that was made in honor of a reddit story game made by user u/Zeebbbrrrraaaaa1 This game is made in python using turtle graphics and pygame. This was made as a fun time and this is in no way a expert piece of work and additions are welcome.
